@@ -1,3 +1,5 @@
+![RHEA Method Diagram (Figure 1 in Paper)](rhea-framework.png)
+
 # RHEA - Demo
 
 This is an official repo for the paper Unlocking the Potential of Global Human Expertise (NeurIPS 2024).
